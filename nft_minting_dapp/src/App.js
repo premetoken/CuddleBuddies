@@ -240,7 +240,7 @@ function App() {
                 color: "var(--primary-text)",
               }}
             >
-              <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK} rel="noreferrer">
+              <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
                 {truncate(CONFIG.CONTRACT_ADDRESS, 15)}
               </StyledLink>
             </s.TextDescription>
@@ -258,7 +258,7 @@ function App() {
                   You can still find {CONFIG.NFT_NAME} on
                 </s.TextDescription>
                 <s.SpacerSmall />
-                <StyledLink target={"_blank"} href={CONFIG.MARKETPLACE_LINK} rel="noreferrer">
+                <StyledLink target={"_blank"} href={CONFIG.MARKETPLACE_LINK}>
                   {CONFIG.MARKETPLACE}
                 </StyledLink>
               </>
