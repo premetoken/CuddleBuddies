@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x275249a5d1c4ef097ec3a839b28e8d7fd5581be9",
-  "SCAN_LINK": "https://goerli.etherscan.io/token/0x275249a5d1c4ef097ec3a839b28e8d7fd5581be9",
+  "CONTRACT_ADDRESS": "0x80cb7272e8dAa79124DA78C09e0ab640136c8ba3",
+  "SCAN_LINK": "https://etherscan.io/token/0x80cb7272e8daa79124da78c09e0ab640136c8ba3",
   "NETWORK": {
-    "NAME": "Goerli",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 5
+    "ID": 1
   },
   "NFT_NAME": "PREME Cuddle Buddies",
   "SYMBOL": "PCBD",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Rarible",
-  "MARKETPLACE_LINK": "https://testnet.rarible.com/collection/0x275249a5d1c4ef097ec3a839b28e8d7fd5581be9/",
+  "MARKETPLACE_LINK": "https://rarible.com/PREMECuddleBuddies/",
   "SHOW_BACKGROUND": true
 }
