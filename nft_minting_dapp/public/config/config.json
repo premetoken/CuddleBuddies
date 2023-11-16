@@ -12,7 +12,7 @@
   "WEI_COST": 100000000000000000,
   "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Rarible",
+  "MARKETPLACE": "Rarible.com",
   "MARKETPLACE_LINK": "https://rarible.com/PREMECuddleBuddies/",
   "SHOW_BACKGROUND": true
 }
